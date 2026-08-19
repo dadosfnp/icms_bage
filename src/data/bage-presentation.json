@@ -1,0 +1,1168 @@
+{
+  "meta": {
+    "title": "Bagé · ICMS, IPM e transição para o IBS",
+    "updatedAt": "19/08/2026",
+    "legalWindow": [
+      2019,
+      2025
+    ],
+    "provisional2026": true
+  },
+  "municipality": {
+    "code": "4301602",
+    "name": "Bagé",
+    "uf": "RS"
+  },
+  "summary": {
+    "coefficient2019_2025": 0.00010642404561713848,
+    "coefficient2010_2025": 0.00010606401221933526,
+    "ipm2026": 0.0057372000000000005,
+    "revenue2025": 114564432.63,
+    "cotaIcms2025": 81259578.69,
+    "cotaIcms2026S1": 38642139.15
+  },
+  "annual": [
+    {
+      "year": 2010,
+      "period": "2010",
+      "fullYear": true,
+      "coefficient": 9.662190239898013e-05,
+      "revenue": {
+        "iss": 5480357.27,
+        "icms_full": 23134514.76,
+        "both": 28614872.03
+      },
+      "rest": {
+        "iss": 30486435823.739998,
+        "icms_full": 65093569235.19999,
+        "both": 95580005058.93999
+      },
+      "fiscalShare": {
+        "share": 0.1618903574028223,
+        "issPlusIcms": 28614872.03,
+        "currentRevenue": 176754641.16,
+        "source": "Ipeadata/STN — RECORRM"
+      },
+      "ipmShare": 0.00518313,
+      "composition": {
+        "vaf": 0.5979977349593778,
+        "education": 0.002978894992022195,
+        "population": 0.1440268717936845,
+        "area": 0.20222336696166215,
+        "other": 0.052773131293253304
+      },
+      "compositionValue": {
+        "vaf": 13834387.425864294,
+        "education": 68915.29016142756,
+        "population": 3331991.7913476224,
+        "area": 4678339.467791471,
+        "other": 1220880.7848351866
+      },
+      "sourceRevenue": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "sourceUrl": "https://www.ipeadata.gov.br/",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134328-20161110085219definitivodoe-2010.zip"
+    },
+    {
+      "year": 2011,
+      "period": "2011",
+      "fullYear": true,
+      "coefficient": 0.0001005895131066926,
+      "revenue": {
+        "iss": 7407385.8,
+        "icms_full": 25891304.35,
+        "both": 33298690.150000002
+      },
+      "rest": {
+        "iss": 35638762602.689995,
+        "icms_full": 72386533073.10999,
+        "both": 108025295675.79999
+      },
+      "fiscalShare": {
+        "share": 0.16866986793590327,
+        "issPlusIcms": 33298690.150000002,
+        "currentRevenue": 197419317.14,
+        "source": "Ipeadata/STN — RECORRM"
+      },
+      "ipmShare": 0.005306330000000001,
+      "composition": {
+        "vaf": 0.6091460576330534,
+        "education": 0.0018374281282920587,
+        "population": 0.13870415145684495,
+        "area": 0.19724555389506496,
+        "other": 0.05306680888674471
+      },
+      "compositionValue": {
+        "vaf": 15771585.971780026,
+        "education": 47573.41089086054,
+        "population": 3591231.3999776687,
+        "area": 5106944.667581455,
+        "other": 1373968.899769992
+      },
+      "sourceRevenue": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "sourceUrl": "https://www.ipeadata.gov.br/",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134329-20161110085107definitivodoe-2011.zip"
+    },
+    {
+      "year": 2012,
+      "period": "2012",
+      "fullYear": true,
+      "coefficient": 9.992278411271356e-05,
+      "revenue": {
+        "iss": 8601939.49,
+        "icms_full": 27942878.5,
+        "both": 36544817.99
+      },
+      "rest": {
+        "iss": 41143761320.75,
+        "icms_full": 78106271105.54999,
+        "both": 119250032426.29999
+      },
+      "fiscalShare": {
+        "share": 0.1695955184892095,
+        "issPlusIcms": 36544817.99,
+        "currentRevenue": 215482215.07,
+        "source": "Ipeadata/STN — RECORRM"
+      },
+      "ipmShare": 0.0052561000000000005,
+      "composition": {
+        "vaf": 0.5985475895580175,
+        "education": 0.0015239465077652782,
+        "population": 0.14542749458247484,
+        "area": 0.1986172230688592,
+        "other": 0.055883746282883284
+      },
+      "compositionValue": {
+        "vaf": 16725142.571487548,
+        "education": 42583.45210698447,
+        "population": 4063662.8116775025,
+        "area": 5549936.93222053,
+        "other": 1561552.732507434
+      },
+      "sourceRevenue": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "sourceUrl": "https://www.ipeadata.gov.br/",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134330-20161110084912definitivodoe-2012.zip"
+    },
+    {
+      "year": 2013,
+      "period": "2013",
+      "fullYear": true,
+      "coefficient": 0.00010046949766014561,
+      "revenue": {
+        "iss": 9494347.53,
+        "icms_full": 31054216.03,
+        "both": 40548563.56
+      },
+      "rest": {
+        "iss": 44868434508.64,
+        "icms_full": 88985204932.98,
+        "both": 133853639441.62
+      },
+      "fiscalShare": {
+        "share": 0.17356429608951576,
+        "issPlusIcms": 40548563.56,
+        "currentRevenue": 233622723.53,
+        "source": "Ipeadata/STN — RECORRM"
+      },
+      "ipmShare": 0.00522933,
+      "composition": {
+        "vaf": 0.595677058732414,
+        "education": 0.0006348829960358058,
+        "population": 0.14597336933553376,
+        "area": 0.19921748758440405,
+        "other": 0.058497201351612356
+      },
+      "compositionValue": {
+        "vaf": 18498284.065991387,
+        "education": 19715.79371266955,
+        "population": 4533088.5459726425,
+        "area": 6186542.896399926,
+        "other": 1816584.7279233783
+      },
+      "sourceRevenue": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "sourceUrl": "https://www.ipeadata.gov.br/",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134331-20161110084756definitivodoe-2013.zip"
+    },
+    {
+      "year": 2014,
+      "period": "2014",
+      "fullYear": true,
+      "coefficient": 0.00010468883929755856,
+      "revenue": {
+        "iss": 10701854.12,
+        "icms_full": 34623376.04,
+        "both": 45325230.16
+      },
+      "rest": {
+        "iss": 48726077552.33,
+        "icms_full": 88415487351.03001,
+        "both": 137141564903.36002
+      },
+      "fiscalShare": {
+        "share": 0.1735111995094072,
+        "issPlusIcms": 45325230.16,
+        "currentRevenue": 261223657.54,
+        "source": "Ipeadata/STN — RECORRM"
+      },
+      "ipmShare": 0.0053515,
+      "composition": {
+        "vaf": 0.6034932196707098,
+        "education": 0.0,
+        "population": 0.1422850746798567,
+        "area": 0.19432832976113285,
+        "other": 0.05989337588830068
+      },
+      "compositionValue": {
+        "vaf": 20894972.68224931,
+        "education": 0.0,
+        "population": 4926389.645520161,
+        "area": 6728302.836544826,
+        "other": 2073710.8756857035
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2014&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134333-20161110084609definitivodoe-2014.zip"
+    },
+    {
+      "year": 2015,
+      "period": "2015",
+      "fullYear": true,
+      "coefficient": 0.00010790250910765624,
+      "revenue": {
+        "iss": 11371861.72,
+        "icms_full": 36927798.32,
+        "both": 48299660.04
+      },
+      "rest": {
+        "iss": 52444890032.82,
+        "icms_full": 96263432250.89,
+        "both": 148708322283.71
+      },
+      "fiscalShare": {
+        "share": 0.17077581194826807,
+        "issPlusIcms": 48299660.04,
+        "currentRevenue": 282824947.45,
+        "source": "Ipeadata/STN — RECORRM"
+      },
+      "ipmShare": 0.005420319999999999,
+      "composition": {
+        "vaf": 0.6094935354370221,
+        "education": 0.0,
+        "population": 0.1400766006435044,
+        "area": 0.19186874575670806,
+        "other": 0.05856111816276529
+      },
+      "compositionValue": {
+        "vaf": 22507254.353962127,
+        "education": 0.0,
+        "population": 5172720.457914514,
+        "area": 7085290.34721507,
+        "other": 2162533.1609082855
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2015&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134334-20161110084443definitivodoe-2015.zip"
+    },
+    {
+      "year": 2016,
+      "period": "2016",
+      "fullYear": true,
+      "coefficient": 0.00011289539694179066,
+      "revenue": {
+        "iss": 12489707.69,
+        "icms_full": 40263776.49,
+        "both": 52753484.18
+      },
+      "rest": {
+        "iss": 52315805356.38,
+        "icms_full": 99053263839.0,
+        "both": 151369069195.38
+      },
+      "fiscalShare": {
+        "share": 0.16001366622645588,
+        "issPlusIcms": 52753484.18,
+        "currentRevenue": 329681116.77,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.00534292,
+      "composition": {
+        "vaf": 0.6019528683807139,
+        "education": 0.0,
+        "population": 0.143481735608498,
+        "area": 0.19454379729398397,
+        "other": 0.06002159871680414
+      },
+      "compositionValue": {
+        "vaf": 24236895.749995455,
+        "education": 0.0,
+        "population": 5777116.532937838,
+        "area": 7833067.971760838,
+        "other": 2416696.2353058727
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2016&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134335-20161109154826definitivodoe-2016.zip"
+    },
+    {
+      "year": 2017,
+      "period": "2017",
+      "fullYear": true,
+      "coefficient": 0.0001125524504275525,
+      "revenue": {
+        "iss": 13458496.03,
+        "icms_full": 43185431.98,
+        "both": 56643928.01
+      },
+      "rest": {
+        "iss": 54867265455.41,
+        "icms_full": 106418971264.96,
+        "both": 161286236720.37
+      },
+      "fiscalShare": {
+        "share": 0.17524076654393048,
+        "issPlusIcms": 56643928.01,
+        "currentRevenue": 323234879.23,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.00546099,
+      "composition": {
+        "vaf": 0.6126039186962094,
+        "education": 0.0,
+        "population": 0.1394360007324666,
+        "area": 0.19032777879509247,
+        "other": 0.057632301776231465
+      },
+      "compositionValue": {
+        "vaf": 26455564.861536603,
+        "education": 0.0,
+        "population": 6021603.925195166,
+        "area": 8219387.345059952,
+        "other": 2488875.8482082766
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2017&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21134336-20161109154240definitivodoe-2017.zip"
+    },
+    {
+      "year": 2018,
+      "period": "2018",
+      "fullYear": true,
+      "coefficient": 0.0001169447858490823,
+      "revenue": {
+        "iss": 17055487.55,
+        "icms_full": 48506004.82,
+        "both": 65561492.370000005
+      },
+      "rest": {
+        "iss": 62942813702.49,
+        "icms_full": 113124018972.70999,
+        "both": 176066832675.19998
+      },
+      "fiscalShare": {
+        "share": 0.18256141112366434,
+        "issPlusIcms": 65561492.370000005,
+        "currentRevenue": 359120210.38,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.00562865,
+      "composition": {
+        "vaf": 0.623405257033214,
+        "education": 0.0,
+        "population": 0.13519582848462777,
+        "area": 0.18459843834667283,
+        "other": 0.056800476135485424
+      },
+      "compositionValue": {
+        "vaf": 30238898.40246642,
+        "education": 0.0,
+        "population": 6557809.508119248,
+        "area": 8954132.740208184,
+        "other": 2755164.1692061513
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2018&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://admin.atendimento.receita.rs.gov.br/upload/arquivos/202508/21134338-201801050923246-definitivodoe-20180501.zip"
+    },
+    {
+      "year": 2019,
+      "period": "2019",
+      "fullYear": true,
+      "coefficient": 0.00010960206977341548,
+      "revenue": {
+        "iss": 16884413.92,
+        "icms_full": 50012297.21,
+        "both": 66896711.13
+      },
+      "rest": {
+        "iss": 82106636451.35,
+        "icms_full": 122387401674.37,
+        "both": 204494038125.72
+      },
+      "fiscalShare": {
+        "share": 0.16929956437869328,
+        "issPlusIcms": 66896711.13,
+        "currentRevenue": 395138117.31,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.005673040000000001,
+      "composition": {
+        "vaf": 0.6315568670170949,
+        "education": 0.0,
+        "population": 0.13076011887764274,
+        "area": 0.18315159719798482,
+        "other": 0.05453141690727755
+      },
+      "compositionValue": {
+        "vaf": 31585609.738275398,
+        "education": 0.0,
+        "population": 6539613.9285236,
+        "area": 9159832.11355182,
+        "other": 2727241.429649184
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2019&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21132959-20181105083634deinitivodoe-20181016-2019.zip"
+    },
+    {
+      "year": 2020,
+      "period": "2020",
+      "fullYear": true,
+      "coefficient": 0.00010749604400477776,
+      "revenue": {
+        "iss": 16059307.03,
+        "icms_full": 49878358.08,
+        "both": 65937665.11
+      },
+      "rest": {
+        "iss": 71490479159.92,
+        "icms_full": 124135191503.17,
+        "both": 195625670663.09
+      },
+      "fiscalShare": {
+        "share": 0.17051818875693378,
+        "issPlusIcms": 65937665.11,
+        "currentRevenue": 386689922.0,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.0055262,
+      "composition": {
+        "vaf": 0.6196036705083592,
+        "education": 0.0,
+        "population": 0.1342800943141864,
+        "area": 0.18765121122794828,
+        "other": 0.058465023949506076
+      },
+      "compositionValue": {
+        "vaf": 30904813.745298278,
+        "education": 0.0,
+        "population": 6697670.627219161,
+        "area": 9359734.30777332,
+        "other": 2916139.39970924
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: RREO Anexo 03, total dos últimos 12 meses",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/rreo?an_exercicio=2020&nr_periodo=6&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2003&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21133000-20191112103752definitivo-doe-12112019-2020.zip"
+    },
+    {
+      "year": 2021,
+      "period": "2021",
+      "fullYear": true,
+      "coefficient": 0.0001071889954620385,
+      "revenue": {
+        "iss": 19706197.57,
+        "icms_full": 62204726.51,
+        "both": 81910924.08
+      },
+      "rest": {
+        "iss": 88319647086.59,
+        "icms_full": 158183779964.99,
+        "both": 246503427051.58
+      },
+      "fiscalShare": {
+        "share": 0.16447039746266123,
+        "issPlusIcms": 81910924.08,
+        "currentRevenue": 498028370.72,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.00529034,
+      "composition": {
+        "vaf": 0.6017307016184215,
+        "education": 0.0,
+        "population": 0.14080191443272078,
+        "area": 0.19597984250539663,
+        "other": 0.0614875414434611
+      },
+      "compositionValue": {
+        "vaf": 37430493.72684432,
+        "education": 0.0,
+        "population": 8758544.579371817,
+        "area": 12190872.504521072,
+        "other": 3824815.699262788
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2021&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21133001-20201127100859definitivodoe-20201127-2021.zip"
+    },
+    {
+      "year": 2022,
+      "period": "2022",
+      "fullYear": true,
+      "coefficient": 9.863006718615997e-05,
+      "revenue": {
+        "iss": 23718959.01,
+        "icms_full": 57150720.53,
+        "both": 80869679.54
+      },
+      "rest": {
+        "iss": 104966655620.14,
+        "icms_full": 167141950925.9,
+        "both": 272108606546.03998
+      },
+      "fiscalShare": {
+        "share": 0.16064600673097332,
+        "issPlusIcms": 80869679.54,
+        "currentRevenue": 503402986.39,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.00534012,
+      "composition": {
+        "vaf": 0.6052972592376201,
+        "education": 0.0,
+        "population": 0.13912046920293925,
+        "area": 0.19415481300045692,
+        "other": 0.06142745855898369
+      },
+      "compositionValue": {
+        "vaf": 34593174.50026419,
+        "education": 0.0,
+        "population": 7950835.055419653,
+        "area": 11096087.457343524,
+        "other": 3510623.516972633
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2022&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21133002-20211216093532definitivodoe-20211215-2022.zip"
+    },
+    {
+      "year": 2023,
+      "period": "2023",
+      "fullYear": true,
+      "coefficient": 0.00010280348350556586,
+      "revenue": {
+        "iss": 25578501.65,
+        "icms_full": 61565837.7,
+        "both": 87144339.35
+      },
+      "rest": {
+        "iss": 120284224143.97002,
+        "icms_full": 170984818069.74,
+        "both": 291269042213.71
+      },
+      "fiscalShare": {
+        "share": 0.1579065778342594,
+        "issPlusIcms": 87144339.35,
+        "currentRevenue": 551872762.65,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.0055594500000000005,
+      "composition": {
+        "vaf": 0.6218126286100758,
+        "education": 0.0,
+        "population": 0.1332184536572029,
+        "area": 0.18650619486854791,
+        "other": 0.05846272286417337
+      },
+      "compositionValue": {
+        "vaf": 38282415.372818306,
+        "education": 0.0,
+        "population": 8201705.696504325,
+        "area": 11482410.123321593,
+        "other": 3599306.507355777
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2023&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21133003-20221207110353definitivodoe-20221207-2023.zip"
+    },
+    {
+      "year": 2024,
+      "period": "2024",
+      "fullYear": true,
+      "coefficient": 0.00011047230443209735,
+      "revenue": {
+        "iss": 29098384.0,
+        "icms_full": 78523909.99,
+        "both": 107622293.99
+      },
+      "rest": {
+        "iss": 139066163063.66,
+        "icms_full": 194309967721.93002,
+        "both": 333376130785.59
+      },
+      "fiscalShare": {
+        "share": 0.17491101403837614,
+        "issPlusIcms": 107622293.99,
+        "currentRevenue": 615297410.41,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.006238179999999999,
+      "composition": {
+        "vaf": 0.5035515109350629,
+        "education": 0.15595709652960232,
+        "population": 0.12163143475912083,
+        "area": 0.16621327660747748,
+        "other": 0.05264668116873644
+      },
+      "compositionValue": {
+        "vaf": 39540833.51999338,
+        "education": 12246361.010192234,
+        "population": 9550975.834979761,
+        "area": 13051716.371468535,
+        "other": 4134023.253366088
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2024&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21133004-20231220101855definitivodoe-20231220-2024.zip"
+    },
+    {
+      "year": 2025,
+      "period": "2025",
+      "fullYear": true,
+      "coefficient": 0.00010900869395596868,
+      "revenue": {
+        "iss": 33304853.94,
+        "icms_full": 81259578.69,
+        "both": 114564432.63
+      },
+      "rest": {
+        "iss": 153421291792.04,
+        "icms_full": 207470902679.04,
+        "both": 360892194471.08
+      },
+      "fiscalShare": {
+        "share": 0.1716608342038071,
+        "issPlusIcms": 114564432.63,
+        "currentRevenue": 667388301.83,
+        "source": "Tesouro Nacional/Siconfi — DCA Anexo I-C"
+      },
+      "ipmShare": 0.0061695,
+      "composition": {
+        "vaf": 0.4633845096539115,
+        "education": 0.21486760720445022,
+        "population": 0.09836583721261945,
+        "area": 0.16806655947302226,
+        "other": 0.055315486455996585
+      },
+      "compositionValue": {
+        "vaf": 37654430.02594908,
+        "education": 17460051.235562034,
+        "population": 7993166.48938658,
+        "area": 13657017.814655617,
+        "other": 4494913.124446684
+      },
+      "sourceRevenue": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2025&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202508/21133005-20241211105501daim545-2025.zip"
+    },
+    {
+      "year": 2026,
+      "period": "2026 · 1º semestre",
+      "fullYear": false,
+      "coefficient": null,
+      "revenue": {
+        "iss": 17918523.99,
+        "icms_full": 38642139.15,
+        "both": 56560663.14
+      },
+      "rest": {
+        "iss": null,
+        "icms_full": null,
+        "both": null
+      },
+      "fiscalShare": {
+        "share": 0.1470839363547126,
+        "issPlusIcms": 56560663.14,
+        "currentRevenue": 384546841.36,
+        "source": "Tesouro Nacional/Siconfi — MSC acumulada até junho de 2026"
+      },
+      "ipmShare": 0.0057372000000000005,
+      "composition": {
+        "vaf": 0.43444984583098756,
+        "education": 0.24432084584667457,
+        "population": 0.07946545446305782,
+        "area": 0.18072547457736426,
+        "other": 0.06103837928191577
+      },
+      "compositionValue": {
+        "vaf": 16788071.396297067,
+        "education": 9441080.122452898,
+        "population": 3070715.1489794687,
+        "area": 6983618.936568297,
+        "other": 2358653.5457022665
+      },
+      "sourceRevenue": "Tesouro Nacional/Siconfi — MSC acumulada até junho de 2026",
+      "sourceUrl": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/msc_orcamentaria?id_ente=4301602&an_referencia=2026&me_referencia=6&co_tipo_matriz=MSCC&classe_conta=6&id_tv=ending_balance&limit=50000",
+      "sourceIpm": "Receita Estadual do Rio Grande do Sul - IPM definitivo",
+      "sourceIpmUrl": "https://atendimento.receita.rs.gov.br/upload/arquivos/202512/17093842-daim545-3.zip"
+    }
+  ],
+  "formalCoefficients": [
+    {
+      "codigo_ibge": "4301602",
+      "receita_media_corrigida": 111531937.3220801,
+      "coeficiente": 0.00010606401221933526,
+      "denominador": 1051553066759.6982,
+      "ano_referencia_correcao": 2025,
+      "anos_janela": 16,
+      "janela": "2010–2025"
+    },
+    {
+      "codigo_ibge": "4301602",
+      "receita_media_corrigida": 111910531.545676,
+      "coeficiente": 0.00010642404561713848,
+      "denominador": 1051553066759.6982,
+      "ano_referencia_correcao": 2025,
+      "anos_janela": 7,
+      "janela": "2019–2025"
+    }
+  ],
+  "validation": [
+    {
+      "ano": 2010,
+      "iss_validado": 5480357.27,
+      "iss_bruto_dca": null,
+      "delta_iss_dca_base_pct": null,
+      "cota_icms_validada": 23134514.76,
+      "cota_icms_bruta_dca": null,
+      "delta_cota_dca_base_pct": null,
+      "receita_corrente_bruta_ipeadata": 176754641.16,
+      "receita_corrente_bruta_dca": null,
+      "fonte_receita_adotada": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "url_receita_adotada": "https://www.ipeadata.gov.br/",
+      "status": "Série histórica; sem DCA disponível"
+    },
+    {
+      "ano": 2011,
+      "iss_validado": 7407385.8,
+      "iss_bruto_dca": null,
+      "delta_iss_dca_base_pct": null,
+      "cota_icms_validada": 25891304.35,
+      "cota_icms_bruta_dca": null,
+      "delta_cota_dca_base_pct": null,
+      "receita_corrente_bruta_ipeadata": 197419317.14,
+      "receita_corrente_bruta_dca": null,
+      "fonte_receita_adotada": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "url_receita_adotada": "https://www.ipeadata.gov.br/",
+      "status": "Série histórica; sem DCA disponível"
+    },
+    {
+      "ano": 2012,
+      "iss_validado": 8601939.49,
+      "iss_bruto_dca": null,
+      "delta_iss_dca_base_pct": null,
+      "cota_icms_validada": 27942878.5,
+      "cota_icms_bruta_dca": null,
+      "delta_cota_dca_base_pct": null,
+      "receita_corrente_bruta_ipeadata": 215482215.07,
+      "receita_corrente_bruta_dca": null,
+      "fonte_receita_adotada": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "url_receita_adotada": "https://www.ipeadata.gov.br/",
+      "status": "Série histórica; sem DCA disponível"
+    },
+    {
+      "ano": 2013,
+      "iss_validado": 9494347.53,
+      "iss_bruto_dca": null,
+      "delta_iss_dca_base_pct": null,
+      "cota_icms_validada": 31054216.03,
+      "cota_icms_bruta_dca": null,
+      "delta_cota_dca_base_pct": null,
+      "receita_corrente_bruta_ipeadata": 233622723.53,
+      "receita_corrente_bruta_dca": null,
+      "fonte_receita_adotada": "Série histórica consolidada Finbra/Siconfi/Ipeadata do projeto nacional",
+      "url_receita_adotada": "https://www.ipeadata.gov.br/",
+      "status": "Série histórica; sem DCA disponível"
+    },
+    {
+      "ano": 2014,
+      "iss_validado": 10701854.12,
+      "iss_bruto_dca": 10701854.12,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 34623376.04,
+      "cota_icms_bruta_dca": 34623376.04,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 261223657.54,
+      "receita_corrente_bruta_dca": 261223657.54,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2014&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2015,
+      "iss_validado": 11371861.72,
+      "iss_bruto_dca": 12625035.459999999,
+      "delta_iss_dca_base_pct": 0.11019952324921502,
+      "cota_icms_validada": 36927798.32,
+      "cota_icms_bruta_dca": 36927798.32,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 282824947.45,
+      "receita_corrente_bruta_dca": 282824947.45,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2015&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "Diferença de escopo encerrada: DCA ampliada soma ISS principal, multas, juros e dívida ativa; mantido ISS principal da série nacional"
+    },
+    {
+      "ano": 2016,
+      "iss_validado": 12489707.69,
+      "iss_bruto_dca": 13591440.18,
+      "delta_iss_dca_base_pct": 0.08821123098678382,
+      "cota_icms_validada": 40263776.49,
+      "cota_icms_bruta_dca": 40263776.49,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 329681116.77,
+      "receita_corrente_bruta_dca": 329681116.77,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2016&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "Diferença de escopo encerrada: DCA ampliada soma ISS principal, multas, juros e dívida ativa; mantido ISS principal da série nacional"
+    },
+    {
+      "ano": 2017,
+      "iss_validado": 13458496.03,
+      "iss_bruto_dca": 14708925.36,
+      "delta_iss_dca_base_pct": 0.09291003446541865,
+      "cota_icms_validada": 43185431.98,
+      "cota_icms_bruta_dca": 43185431.98,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 323234879.23,
+      "receita_corrente_bruta_dca": 323234879.23,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2017&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "Diferença de escopo encerrada: DCA ampliada soma ISS principal, multas, juros e dívida ativa; mantido ISS principal da série nacional"
+    },
+    {
+      "ano": 2018,
+      "iss_validado": 17055487.55,
+      "iss_bruto_dca": 17055487.55,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 48506004.82,
+      "cota_icms_bruta_dca": 48506004.82,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 359120210.38,
+      "receita_corrente_bruta_dca": 359120210.38,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2018&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2019,
+      "iss_validado": 16884413.92,
+      "iss_bruto_dca": 16884413.92,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 50012297.21,
+      "cota_icms_bruta_dca": 50012297.21,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 395138117.31,
+      "receita_corrente_bruta_dca": 395138117.31,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2019&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2020,
+      "iss_validado": 16059307.03,
+      "iss_bruto_dca": 16059307.03,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 39902686.64,
+      "cota_icms_bruta_dca": 39902686.64,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 386689922.0,
+      "receita_corrente_bruta_dca": 386689922.0,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: RREO Anexo 03, total dos últimos 12 meses",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/rreo?an_exercicio=2020&nr_periodo=6&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2003&id_ente=4301602",
+      "status": "DCA 2020 registrou valor líquido do Fundeb como receita bruta (dedução/bruta = 25%). Cota substituída pelo RREO Anexo 03, 12 meses: R$ 49.878.358,08"
+    },
+    {
+      "ano": 2021,
+      "iss_validado": 19706197.57,
+      "iss_bruto_dca": 19706197.57,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 62204726.51,
+      "cota_icms_bruta_dca": 62204726.51,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 498028370.72,
+      "receita_corrente_bruta_dca": 498028370.72,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2021&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2022,
+      "iss_validado": 23718959.01,
+      "iss_bruto_dca": 23718959.01,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 57150720.53,
+      "cota_icms_bruta_dca": 57150720.53,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 503402986.39,
+      "receita_corrente_bruta_dca": 503402986.39,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2022&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2023,
+      "iss_validado": 25578501.65,
+      "iss_bruto_dca": 25578501.65,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 61565837.7,
+      "cota_icms_bruta_dca": 61565837.7,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 551872762.65,
+      "receita_corrente_bruta_dca": 551872762.65,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2023&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2024,
+      "iss_validado": 29098384.0,
+      "iss_bruto_dca": 29098384.0,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 78523909.99,
+      "cota_icms_bruta_dca": 78523909.99,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 615297410.41,
+      "receita_corrente_bruta_dca": 615297410.41,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2024&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    },
+    {
+      "ano": 2025,
+      "iss_validado": 33304853.94,
+      "iss_bruto_dca": 33304853.94,
+      "delta_iss_dca_base_pct": 0.0,
+      "cota_icms_validada": 81259578.69,
+      "cota_icms_bruta_dca": 81259578.69,
+      "delta_cota_dca_base_pct": 0.0,
+      "receita_corrente_bruta_ipeadata": 667388301.83,
+      "receita_corrente_bruta_dca": 667388301.83,
+      "fonte_receita_adotada": "ISS: série nacional consolidada; cota do ICMS: DCA Anexo I-C, receita bruta realizada",
+      "url_receita_adotada": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2025&no_anexo=DCA-Anexo%20I-C&id_ente=4301602",
+      "status": "DCA localizada; diferença até 1%"
+    }
+  ],
+  "checks": [
+    {
+      "verificacao": "Série anual ISS e cota 2010–2025",
+      "resultado": 16.0,
+      "esperado_ou_tolerancia": 16.0,
+      "status": "OK",
+      "observacao": "Uma linha por ano"
+    },
+    {
+      "verificacao": "DCA direta 2014–2025",
+      "resultado": 12.0,
+      "esperado_ou_tolerancia": 12.0,
+      "status": "OK",
+      "observacao": "Receitas brutas realizadas"
+    },
+    {
+      "verificacao": "IPM/RS 2010–2026",
+      "resultado": 17.0,
+      "esperado_ou_tolerancia": 17.0,
+      "status": "OK",
+      "observacao": "Índices definitivos da Receita Estadual/RS"
+    },
+    {
+      "verificacao": "Resíduo máximo da composição do IPM (p.p.)",
+      "resultado": 2.0000000000575113e-06,
+      "esperado_ou_tolerancia": 1e-05,
+      "status": "OK",
+      "observacao": "Soma dos critérios deve reproduzir o IPM"
+    },
+    {
+      "verificacao": "Diferença máxima entre cota e soma da decomposição (R$)",
+      "resultado": 3.725290298461914e-09,
+      "esperado_ou_tolerancia": 0.02,
+      "status": "OK",
+      "observacao": "Participações normalizadas apenas para eliminar resíduo de arredondamento na decomposição monetária"
+    },
+    {
+      "verificacao": "MSC 2026 janeiro–junho",
+      "resultado": 6.0,
+      "esperado_ou_tolerancia": 6.0,
+      "status": "OK",
+      "observacao": "Prefeitura Municipal de Bagé"
+    },
+    {
+      "verificacao": "RREO 2020 — cota bruta dos últimos 12 meses",
+      "resultado": 0.0,
+      "esperado_ou_tolerancia": 0.02,
+      "status": "OK",
+      "observacao": "Soma das doze colunas mensais do Anexo 03"
+    },
+    {
+      "verificacao": "Diferença MSC × RREO — cota bruta",
+      "resultado": 0.0,
+      "esperado_ou_tolerancia": 0.001,
+      "status": "OK",
+      "observacao": "RREO Anexo 03: soma bruta de janeiro a junho, sem recomposição"
+    },
+    {
+      "verificacao": "Diferença MSC × RREO — ISS",
+      "resultado": 0.011897084862550925,
+      "esperado_ou_tolerancia": 0.02,
+      "status": "OK",
+      "observacao": "Diferença de classificação/fechamento deve ser explicada"
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2014",
+      "resultado": 0.19999999948012004,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "2014: dedução classificada como Transferências Constitucionais; valor absoluto utilizado. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2015",
+      "resultado": 0.19999999582969993,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2016",
+      "resultado": 0.19999999632423948,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2017",
+      "resultado": 0.19999999685078987,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2018",
+      "resultado": 0.19991464656767005,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2019",
+      "resultado": 0.1999999961609442,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2020",
+      "resultado": 0.19999999647141553,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "DCA informou 25.00%; após correção pelo RREO Anexo 03, razão adotada = 20.00%. Anomalia preservada e correção documentada. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2021",
+      "resultado": 0.19999999707417732,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2022",
+      "resultado": 0.19999999762032747,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2023",
+      "resultado": 0.19999999691387288,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2024",
+      "resultado": 0.19999999811522376,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    },
+    {
+      "verificacao": "Dedução Fundeb/constitucional ÷ cota bruta adotada — 2025",
+      "resultado": 0.19999999780948902,
+      "esperado_ou_tolerancia": 0.2,
+      "status": "OK",
+      "observacao": "Razão calculada diretamente sobre a receita bruta informada na DCA. Tolerância: ±0,5 p.p."
+    }
+  ],
+  "current2026": {
+    "iss_msc": 17918523.99,
+    "cota_msc": 38642139.15,
+    "receita_corrente_msc": 384546841.36,
+    "iss_rreo": 17707852.17,
+    "cota_bruta_rreo": 38642139.15,
+    "delta_iss_pct": 0.011897084862550925,
+    "delta_cota_pct": 0.0,
+    "meses_msc": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "periodo_completo": true,
+    "url_msc": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/msc_orcamentaria?id_ente=4301602&an_referencia=2026&me_referencia=6&co_tipo_matriz=MSCC&classe_conta=6&id_tv=ending_balance&limit=50000",
+    "url_rreo": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/rreo?an_exercicio=2026&nr_periodo=3&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2003&id_ente=4301602",
+    "extraido_em": "2026-08-19T10:25:44.1852597-03:00"
+  },
+  "sources": [
+    {
+      "label": "Siconfi/Tesouro Nacional — DCA",
+      "url": "https://apidatalake.tesouro.gov.br/docs/siconfi/"
+    },
+    {
+      "label": "Siconfi — RREO 2020, correção da cota do ICMS",
+      "url": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/rreo?an_exercicio=2020&nr_periodo=6&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2003&id_ente=4301602"
+    },
+    {
+      "label": "Siconfi/Tesouro Nacional — MSC e RREO",
+      "url": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/msc_orcamentaria?id_ente=4301602&an_referencia=2026&me_referencia=6&co_tipo_matriz=MSCC&classe_conta=6&id_tv=ending_balance&limit=50000"
+    },
+    {
+      "label": "Receita Estadual do RS — IPM definitivo",
+      "url": "https://atendimento.receita.rs.gov.br/upload/arquivos/202512/17093842-daim545-3.zip"
+    },
+    {
+      "label": "Ipeadata/STN — RECORRM",
+      "url": "https://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='RECORRM')"
+    }
+  ],
+  "methodology": {
+    "legalRule": "ISS bruto + cota-parte integral e bruta do ICMS; o VAF não limita a receita municipal.",
+    "ipmRule": "A decomposição por critério explica como o RS distribui a cota entre municípios; não representa vinculação da receita.",
+    "sourcePriority": "2010–2013: série consolidada; 2014–2025: cota validada na DCA direta, exceto 2020 corrigido pelo RREO Anexo 03; ISS mantido no mesmo escopo da série nacional; 2026: MSC até junho, conferida com o RREO Anexo 03.",
+    "denominatorCaveat": "A correção de 2020 trata o numerador de Bagé. O teste dedução/bruta deve ser aplicado à base municipal nacional antes do fechamento oficial do split; no denominador federativo consolidado, a cota municipal e o resíduo estadual se compensam.",
+    "warning2026": "2026 contém janeiro–junho e não deve ser comparado diretamente com anos completos em valores nominais."
+  }
+}
