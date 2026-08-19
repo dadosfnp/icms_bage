@@ -1,0 +1,8 @@
+services:
+  - type: web
+    runtime: static
+    name: bage-icms
+    plan: free
+    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm run build
+    staticPublishPath: ./dist
+    autoDeployTrigger: commit
